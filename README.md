@@ -1,5 +1,7 @@
 [中文阅读](README_zh_cn.md)
 
+云平台镜像一键部署：[https://www.compshare.cn/images/q8U4BLepPzqq?referral_code=CpxneZgXby6EOmUwLGr7hQ](https://www.compshare.cn/images/q8U4BLepPzqq?referral_code=CpxneZgXby6EOmUwLGr7hQ)  
+
 <p align="center">
   <img src="assets/teaser.png">
 </p>
